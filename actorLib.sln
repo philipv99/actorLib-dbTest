@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "actorLib", "actorLib\actorLib.csproj", "{96A974FA-583C-4365-975C-808F1EF410ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "actorLibTests", "actorLibTests\actorLibTests.csproj", "{F402D013-E74F-46FD-9DF3-596183F6596B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A974FA-583C-4365-975C-808F1EF410ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A974FA-583C-4365-975C-808F1EF410ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A974FA-583C-4365-975C-808F1EF410ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A974FA-583C-4365-975C-808F1EF410ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F402D013-E74F-46FD-9DF3-596183F6596B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F402D013-E74F-46FD-9DF3-596183F6596B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F402D013-E74F-46FD-9DF3-596183F6596B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F402D013-E74F-46FD-9DF3-596183F6596B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {920F74B7-7585-492B-BAA4-55571BFBB8FF}
+	EndGlobalSection
+EndGlobal
